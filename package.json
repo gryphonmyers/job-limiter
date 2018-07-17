@@ -1,0 +1,19 @@
+{
+  "name": "job-limiter",
+  "version": "1.0.0",
+  "description": "Throttle execution of jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryphonmyers/job-limiter.git"
+  },
+  "author": "Gryphon Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryphonmyers/job-limiter/issues"
+  },
+  "homepage": "https://github.com/gryphonmyers/job-limiter#readme"
+}
